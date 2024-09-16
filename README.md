@@ -1,15 +1,27 @@
 # YoutTube_Clone_Backend Project
-#### You can check the screenshots folder to see how this project in live mode looks.
-## Technologies
-- Vue.js
-- Node.js
-- Express.js
-- MongoDB
-- JWT TOKEN
-- HTML5
-- CSS3
-- JavaScript
 
+#### You can check the screenshots folder to see how this project in live mode looks.
+
+
+## 🚨 Technologies Used
+
+- **Node.js**: Runtime environment for the backend server.
+- **Express.js**: Web application framework for Node.js.
+- **MongoDB**: NoSQL database for data storage.
+- **Mongoose**: ODM library for MongoDB and Node.js.
+- **bcryptjs**: Library for hashing passwords.
+- **jsonwebtoken**: Library for handling JSON Web Tokens (JWT).
+- **nodemailer**: Module for sending emails.
+- **dotenv**: Module for loading environment variables.
+- **express-fileupload**: Middleware for handling file uploads.
+- **express-mongo-sanitize**: Middleware for sanitizing MongoDB queries.
+- **express-rate-limit**: Middleware for rate limiting API requests.
+- **helmet**: Middleware for setting security headers.
+- **xss-clean**: Middleware for sanitizing user input to prevent XSS attacks.
+- **colors**: Library for adding color to console output.
+- **cookie-parser**: Middleware for parsing cookies.
+- **hpp**: Middleware for protecting against HTTP Parameter Pollution.
+- **morgan**: HTTP request logger middleware for Node.js.
 
 ## Frontend Repository
 You can visit to its frontend part [here](https://github.com/markus-wilkes/youtube_clone_frontend.github.io)
