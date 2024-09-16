@@ -1,4 +1,4 @@
-# YoutTube_Clone Project
+# YoutTube_Clone_Backend Project
 #### You can check the screenshots folder to see how this project in live mode looks.
 ## Technologies
 - Vue.js
