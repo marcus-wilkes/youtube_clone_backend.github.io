@@ -12,7 +12,7 @@
 
 
 ## Frontend Repository
-You can visit to its frontend part [here] (https://github.com/markus-wilkes/youtube_clone_frontend.github.io)
+You can visit to its frontend part [here](https://github.com/markus-wilkes/youtube_clone_frontend.github.io)
 ## Features
 
 > CRUD (Create, Read, Update, and Delete)
