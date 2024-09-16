@@ -3,7 +3,7 @@
 #### You can check the screenshots folder to see how this project in live mode looks.
 
 
-## 🚨 Technologies Used
+### Technologies Used
 
 - **Node.js**: Runtime environment for the backend server.
 - **Express.js**: Web application framework for Node.js.
