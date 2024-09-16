@@ -1,5 +1,5 @@
 {
-	"name": "vuetube-restful-api",
+	"name": "youtube_clone",
 	"version": "1.0.0",
 	"description": "",
 	"main": "app.js",
@@ -8,7 +8,7 @@
 		"dev": "nodemon app"
 	},
 	"keywords": [],
-	"author": "",
+	"author": "Marcus Wilkes",
 	"license": "MIT",
 	"dependencies": {
 		"bcryptjs": "^2.4.3",
